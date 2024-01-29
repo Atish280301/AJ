@@ -1,0 +1,10 @@
+.H1{
+    text-align: center;
+    background: lightsalmon;
+    margin: 0;
+    padding: 10px;
+    height: 50px;
+    color: white;
+    font-weight: 100;
+    font-size: 40px;
+}

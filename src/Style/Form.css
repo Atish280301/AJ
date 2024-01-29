@@ -1,0 +1,29 @@
+.EXP_FORM{
+    background: lightgrey;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.EXP_FORM_BUTTON{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.EXP_FORM_BOX_FORM{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.IP{
+    width: 200px;
+}
+.EXP_FORM_BOX_BUTTON_BOX{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 10px;
+}

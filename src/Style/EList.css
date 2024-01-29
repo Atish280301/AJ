@@ -1,0 +1,17 @@
+.LIST_BOX_MAIN{
+    margin: 20px;
+    background: lightgreen;
+    border-radius: 10px;
+    padding: 10px;
+    height: 200px;
+    overflow: scroll;
+}
+.LIST_BOX_MAIN::-webkit-scrollbar{display: none}
+.LIST_BOX_U{
+    border: 2px solid white;
+    display: flex;
+    margin: 5px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+}

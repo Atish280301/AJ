@@ -1,0 +1,27 @@
+.EXPENSE_FILTER_BOX{
+    margin: 20px;
+    background: rgb(225, 225, 122);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.EXP_LBL{
+    margin: 5px;
+}
+.OPT{
+    width: 100px;
+}
+.TOTAL_AM_BOX{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.TM{
+    margin: 10px;
+    margin-right: 50px;
+}
+.TM1{
+    margin: 10px;
+    margin-right: 50px;
+}
